@@ -31,3 +31,16 @@ The project focuses on backend fundamentals, clean UI, and live deployment.
 ---
 
 ## 📂 Project Structure
+
+Flask-Todo-Web-App/
+├── app.py              # Main Flask application
+├── requirements.txt    # Project dependencies
+├── templates/          # HTML templates (Jinja2)
+│   ├── base.html
+│   ├── index.html
+│   ├── about.html
+│   └── update.html
+├── static/             # Static files (CSS)
+│   └── style.css
+└── README.md
+
