@@ -13,7 +13,7 @@ The project focuses on backend fundamentals, clean UI, and live deployment.
 ## 🛠 Tech Stack
 - **Backend:** Python, Flask
 - **Database:** SQLite, SQLAlchemy ORM
-- **Frontend:** HTML, CSS, Bootstrap, Jinja2
+- **Frontend:** HTML, CSS, Jinja2
 - **Deployment:** Render, Gunicorn
 - **Version Control:** Git, GitHub
 
